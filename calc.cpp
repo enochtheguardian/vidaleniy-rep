@@ -46,6 +46,12 @@ int main() {
 
                break;
 
+    case 5:
+
+               result = a*a;
+
+               break;
+
   }
 
   cout << "Результат = " << result;
